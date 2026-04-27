@@ -1,0 +1,1 @@
+streamlit run bitcoin_price_tracker.py
